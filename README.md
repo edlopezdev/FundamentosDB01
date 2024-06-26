@@ -1,6 +1,6 @@
 # Fundamentos de Bases de Datos
 
-**Docente:** Edgar López Riquelme
+**Docente:** Edgar López
 
 ## Clase 01
 
